@@ -5,6 +5,7 @@ Functions:
 2. AutoQuests - When turned on, it starts doing quests in parallel with autofarming
 3. AutoRoll - settings in .cfg
 4. AutoEvolve - settings in .cfg
+
 Its upgrade version of programm, we will constantly improve the program and create updates, good luck!
 
 [Download](https://github.com/Fenix0127/AnimeScript/archive/refs/heads/main.zip)
