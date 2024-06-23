@@ -1,4 +1,4 @@
-# AnimeScript
+# AnimeScript (AutoFarm)
 Open the main program from the archive and you will start to create configuration files, then configure the software through them.
 Functions:
 1. AutoFarm, u can set setting (in .cfg files) and turn on very powerful autofarm
